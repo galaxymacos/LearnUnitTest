@@ -15,6 +15,7 @@ namespace TestNinja.UnitTest
             math = new Math();
         }
         [Test]
+//        [Ignore("because I wanted to")]
         [TestCase(1,2,3)]
         public void Add_WhenCalled_ReturnSumOfArguments(int a,int b ,int expectedResult)
         {
