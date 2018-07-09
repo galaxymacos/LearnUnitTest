@@ -15,31 +15,21 @@ namespace TestNinja.UnitTest
             math = new Math();
         }
         [Test]
-        public void Add_WhenCalled_ReturnSumOfArguments()
+        [TestCase(1,2,3)]
+        public void Add_WhenCalled_ReturnSumOfArguments(int a,int b ,int expectedResult)
         {
-            var result = math.Add(1, 2);
-            Assert.That(result, Is.EqualTo(3));
+            var result = math.Add(a, b);
+            Assert.That(result, Is.EqualTo(expectedResult));
         }
 
         [Test]
-        public void Max_WhenABiggerThanB_ReturnA()
+        [TestCase(3,1,3)]
+        [TestCase(1,3,3)]
+        [TestCase(1,1,1)]
+        public void Max_WhenCalled_ReturnGreaterArgument(int a,int b, int expectedResult)
         {
-            var result = math.Max(3, 1);            
-            Assert.That(result, Is.EqualTo(3));
-        }
-
-        [Test]
-        public void Max_WhenBBiggerThanA_ReturnB()
-        {
-            var result = math.Max(1, 3);
-            Assert.That(result,Is.EqualTo(3));
-        }
-
-        [Test]
-        public void Max_WhenArgumentsAreEqual_ReturnSameArgument()
-        {
-            var result = math.Max(3, 3);
-            Assert.That(result,Is.EqualTo(3));
+            var result = math.Max(a, b);
+            Assert.That(result, Is.EqualTo(expectedResult));
         }
     }
 }
