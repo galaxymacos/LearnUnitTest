@@ -25,3 +25,31 @@ F:\Onedrive5T\OneDrive - business\C#\Unit Testing\TestNinja\TestNinja\obj\Debug\
 F:\Onedrive5T\OneDrive - business\C#\Unit Testing\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
 F:\Onedrive5T\OneDrive - business\C#\Unit Testing\TestNinja\TestNinja\obj\Debug\TestNinja.dll
 F:\Onedrive5T\OneDrive - business\C#\Unit Testing\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\TestNinja.dll.config
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\TestNinja.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\TestNinja.pdb
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\EntityFramework.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\EntityFramework.xml
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.pdb
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\TestNinja.dll.config
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\TestNinja.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\TestNinja.pdb
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\EntityFramework.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\Newtonsoft.Json.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\EntityFramework.xml
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\bin\Debug\Newtonsoft.Json.xml
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja\obj\Debug\TestNinja.pdb

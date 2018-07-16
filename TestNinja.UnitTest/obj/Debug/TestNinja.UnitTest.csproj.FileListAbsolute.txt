@@ -14,3 +14,35 @@ F:\Onedrive5T\OneDrive - business\C#\Unit Testing\TestNinja\TestNinja.UnitTest\o
 F:\Onedrive5T\OneDrive - business\C#\Unit Testing\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csproj.CopyComplete
 F:\Onedrive5T\OneDrive - business\C#\Unit Testing\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.dll
 F:\Onedrive5T\OneDrive - business\C#\Unit Testing\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.pdb
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.UnitTest.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.UnitTest.pdb
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\nunit.framework.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\EntityFramework.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.pdb
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.dll.config
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\nunit.framework.xml
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\EntityFramework.xml
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csprojAssemblyReference.cache
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csproj.CoreCompileInputs.cache
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csproj.CopyComplete
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.dll
+D:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.pdb
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.UnitTest.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.UnitTest.pdb
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\nunit.framework.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\EntityFramework.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\Newtonsoft.Json.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.pdb
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\TestNinja.dll.config
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\nunit.framework.xml
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\EntityFramework.xml
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\bin\Debug\Newtonsoft.Json.xml
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csprojAssemblyReference.cache
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csproj.CoreCompileInputs.cache
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csproj.CopyComplete
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.dll
+E:\Google Drive\Doing\LearnUnitTest\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.pdb

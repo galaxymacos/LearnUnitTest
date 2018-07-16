@@ -11,7 +11,7 @@ namespace TestNinja.Fundamentals
         
         public int Max(int a, int b)
         {
-            return (a > b) ? a : b;
+            return a > b ? a : b;
         }
 
         public IEnumerable<int> GetOddNumbers(int limit)
@@ -20,5 +20,7 @@ namespace TestNinja.Fundamentals
                 if (i % 2 != 0)
                     yield return i; 
         }
+        
+        
     }
 }
